@@ -37,6 +37,9 @@ This plugin send a message in the HUD with the mentioned args.
 - **sm_htm_fadeinduration** (Default: 0.5) - Duration of the selected effect.
 - **sm_htm_fadeoutduration** (Default: 0.5) - Duration of the selected effect.
 
+# Credits
+[Pinto](https://steamcommunity.com/profiles/76561198348227823/) for the idea and some plugin code.
+
 # Other things related to the plugin
 
 - [Website](https://shutap.cf)
