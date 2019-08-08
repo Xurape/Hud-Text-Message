@@ -18,7 +18,9 @@ This plugin send a message in the HUD with the mentioned args.
 
 # Screenshots
 
-[SOON]
+![csgo_f1nPibDczA](https://user-images.githubusercontent.com/41197101/62725129-706bd600-ba0c-11e9-9702-4c48425ccdb5.jpg)
+![csgo_bW2WHaVctx](https://user-images.githubusercontent.com/41197101/62725133-7497f380-ba0c-11e9-977a-0b1db0c4d34a.jpg)
+![csgo_o1nqHAIHxY](https://user-images.githubusercontent.com/41197101/62725140-7bbf0180-ba0c-11e9-83ec-e4c8ef8cb8d6.png)
 
 # ConVars:
 
