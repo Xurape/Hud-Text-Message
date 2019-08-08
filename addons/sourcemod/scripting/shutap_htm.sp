@@ -115,6 +115,11 @@ public Action Command_HTM(int client, int args)
 	}
 	
 	SetHudTextParams(htm_x, htm_y, htm_holdtime, htm_red, htm_green, htm_blue, htm_transparency, htm_effect, htm_effectduration, htm_fadein, htm_fadeout);
-	ShowSyncHudText(client, HTM, message);
+	for (int i = 1; i <= MaxClients;i++) 
+	{ 
+	    if (!IsClientInGame(i) || IsFakeClient(i))continue; 
+     
+	    ShowSyncHudText(i, HTM, message); 
+	}
 	return Plugin_Handled;
 }
