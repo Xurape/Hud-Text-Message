@@ -39,6 +39,7 @@ This plugin send a message in the HUD with the mentioned args.
 
 # Credits
 [Pinto](https://steamcommunity.com/profiles/76561198348227823/) for the idea and some plugin code.
+[SpirtBBX](https://steamcommunity.com/profiles/76561198799136845/) for helping with the code.
 
 # Other things related to the plugin
 
